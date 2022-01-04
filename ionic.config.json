@@ -1,0 +1,7 @@
+{
+  "name": "ARTINGEN",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
